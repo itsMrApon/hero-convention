@@ -4,7 +4,7 @@
 // link
 function relocate_home()
 {
-     location.href = "www.instagram.com/itsmrapon";
+     location.href = "https://www.instagram.com/itsmrapon/";
 } 
 // link
 function relocate_play()
